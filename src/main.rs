@@ -4,11 +4,11 @@ extern crate litcrypt; //#litcrypt in there is used to hide string from decompil
 use_litcrypt!();
 
 fn main() {
-    hideAnExposeStrEg();
+    hide_an_expose_str_eg();
 }
 
 // to give example for comparing between string was hidden and string exposed.
-fn hideAnExposeStrEg() {
+fn hide_an_expose_str_eg() {
     // This string gives you an example for a case that a string could be get by decompling.
     // In this case, you can try run with string command to look into executable file, e.g:
     //        strings ./target/debug/RustPractice | grep exposure

@@ -10,3 +10,12 @@ A repo, used for learning and practice.
   1. export LITCRYPT_ENCRYPT_KEY="brucewind20230000"
   2. cargo build
   3. cargo run
+
+
+## In addition 
+
+1. prefer to run with Clion?
+    open this project in Clion, and **add configrations** at top of screen, 
+and then write `command ``run --package RustPractice --bin RustPractice` into command 
+input box.
+
