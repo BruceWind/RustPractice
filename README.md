@@ -2,7 +2,7 @@
 
 A repo, used for learning and practice.
 
-## Some examples explained in this repo:
+## Some examples exhibited in this repo:
 1. hide your secret strings or keys for decompiling.
 
 # Run
